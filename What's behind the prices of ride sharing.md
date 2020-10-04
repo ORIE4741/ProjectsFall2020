@@ -1,4 +1,4 @@
-Project name: What's behind the price of ride sharing?(https://github.com/ZhifeiJin/UberLyft)
+Project name: [What's behind the price of ride sharing?](https://github.com/ZhifeiJin/UberLyft)
 
 Group members: Shelly Li (xl299), Yunan Wu (yw459), Zhifei Jin (zj98)
 
