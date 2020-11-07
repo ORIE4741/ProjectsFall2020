@@ -1,1 +1,0 @@
-[Predicting Macro-Trends of the COVID-19 Pandemic in the United States using Self-Reported Data Collected from Facebook Surveys](https://github.com/benjaminmposnick/Analysis-of-Self-Reported-COVID19-Data) by Benjamin Posnick, Jacob Polacek, William Long.
